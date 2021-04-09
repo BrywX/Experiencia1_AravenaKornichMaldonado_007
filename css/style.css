@@ -231,12 +231,45 @@ ul.buttons{
 	padding: 0;
 	margin-top: 10px;
 }
+.boton1 {
+	background-color: #4CAF50; 
+	border: none;
+	color: white;
+	padding: 10px 24px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+  }
+
 .cart{
+	background-color: white;
 	float:left;
+	color: black; 
+	border: 2px solid #333;
 }
+
+.cart:hover {
+	background-color: #da0505;
+	color: white;
+  }
+
+
 .shop_btn{
+	background-color: white;
 	float:right;
+  	color: black; 
+  	border: 2px solid #333;
 }
+
+.shop_btn:hover {
+	background-color: #008CBA;
+	color: white;
+}
+
 .shop_btn a, .cart a{
 	color: #000;
 	font-size: 0.8125em;
