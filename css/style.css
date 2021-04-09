@@ -11,6 +11,12 @@ html, body{
 	font-size: 100%;
 }
 
+.imagen {
+    margin: 10px auto 10px;
+    display: block;
+}
+
+
 /*Body*/
 body a{
  	transition: 0.5s all;
