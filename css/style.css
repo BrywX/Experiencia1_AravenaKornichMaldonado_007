@@ -86,8 +86,8 @@ body a{
 	 color:red;
 }
 .toggleMenu {
-    display:  none;
-  	padding:4px 5px 0px 5px;
+    display: none;
+  	padding: 4px 5px 0px 5px;
 }
 .nav:before,
 .nav:after {
@@ -100,6 +100,8 @@ body a{
 .nav ul {
     list-style: none;
 }
+
+
 
 /*Botones*/
 
